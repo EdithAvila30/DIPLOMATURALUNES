@@ -1,6 +1,9 @@
-lista compras
+lista compra
 
-azucar
+azúcar
 yerba 
 te 
 cafe
+mate
+leche
+yogur
