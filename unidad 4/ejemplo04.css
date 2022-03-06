@@ -1,0 +1,42 @@
+h1 {
+    text-transform: capitalize;
+}
+
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: yellow;
+}
+
+h2 {
+    color: blue;
+}
+
+p {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+.destacados {
+    color: aqua;
+    font-style: italic;
+}
+
+#Bienvenidos {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 300px;
+    background-color: pink;
+    text-align: center;
+    border: 5px dashed brown;
+    padding: 20PX;
+}
+
+#Bienvenidos:hover {
+    background-color: rgb(192, 20, 126);
+    cursor: pointer;
+}
+
+#Bienvenidos a:hover {
+    color: black;
+    text-decoration: none;
+}
