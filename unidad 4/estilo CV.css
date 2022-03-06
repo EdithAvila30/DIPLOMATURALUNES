@@ -1,0 +1,44 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+}
+
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(174, 248, 77);
+    color: rgb(31, 30, 41);
+}
+
+h3 {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 30px;
+}
+
+p {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#resaltar {
+    color: black;
+    font-style: normal;
+}
+
+#Perfil {
+    margin-left: 300px;
+    margin-right: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 600px;
+    background-color: pink;
+    text-align: center;
+    border: 5px red;
+    padding: 20PX;
+}
+
+#Perfil:hover {
+    background-color: rgb(204, 70, 153);
+    cursor: pointer;
+}
